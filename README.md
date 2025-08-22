@@ -30,7 +30,7 @@ This module allows users to **predict whether a given peptide is tumor homing or
 | Dataset                   | Available Models          |
 |----------------------------|--------------------------|
 | Whole length dataset       | RF, Hybrid (RF + MERCI) |
-| 5–10 length dataset        | ET, Hybrid (ET + MERCI) |
+| 5–10 length dataset        | ET, Hybrid (ESM + MERCI) |
 
 ---
 
