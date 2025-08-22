@@ -1,0 +1,95 @@
+MERCI - Summary of options:
+ -p    positive_train.fasta
+ -n    negative_train.fasta
+ -k 	  500
+ -fp   5
+ -fn   0
+ -o    NONE_Ca/fp5_results/motifs_500_fp5_NONE
+ -l    10000
+ -s    10000
+ -c    NONE
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ P A Y
+ E P A
+ P A Y Q
+ Y Q R
+ A Y Q R
+ E P A Y
+ E P A Y Q
+ N G R
+ P A Y Q R
+ E P A Y Q R
+ R G D
+ G R C
+ A Y Q R F
+ C N G
+ C N G R
+ N G R C
+ Y Q R F
+ C N G R C
+ P A Y Q R F
+ E P A Y Q R F
+ Q R F L
+ A Y Q R F L
+ Y Q R F L
+ C R G
+ G D G
+ P A Y Q R F L
+ E P A Y Q R F L
+ G D G R
+ C R G D
+ A D G R
+ W C
+ N C
+ C F
+ C G L
+ G R R
+ C A R
+ C N G R C G
+ G D C
+ G R C G
+ N G R C G
+ R C G
+ R G D K
+ C A K
+ C D
+ C R G D K
+ G G C
+ G T R
+ G V S
+ N R D
+ R C L
+ R L G
+ R V G
+ S K N
+ T N
+ A K S
+ C P K
+ C R T
+ C S P
+ G K R
+ G R C V
+ G R G D
+ G S R
+ K D C
+ L G C
+ L R I
+ L W Q
+ R C V
+ R G D S
+ R N G
+ R S C
+ R S R
+ S R C
+ S R N
+ S S R
+ T C N
+ T C N G
+ T C N G R
+ T C N G R C
+ V S R

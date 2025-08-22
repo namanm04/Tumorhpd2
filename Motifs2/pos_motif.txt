@@ -1,0 +1,167 @@
+MERCI - Summary of options:
+ -p    positive_train.fasta
+ -n    negative_train.fasta
+ -k 	  100
+ -fp   5
+ -fn   0
+ -o    NONE_Ca/fp5_results/motifs_100_fp5_NONE
+ -l    10000
+ -s    10000
+ -c    NONE
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ R G D
+ P A Y
+ A Y Q
+ P A Y Q
+ N G R
+ E P A
+ E P A Y
+ E P A Y Q
+ Y Q R
+ A Y Q R
+ E P A Y Q R
+ P A Y Q R
+ C N G
+ C N G R
+ N G R C
+ C N G R C
+ A Y Q R F
+ Y Q R F
+ E P A Y Q R F
+ P A Y Q R F
+ C R G D
+ Q R F L
+ A Y Q R F L
+ Y Q R F L
+ A D G R
+ C D
+ E P A Y Q R F L
+ P A Y Q R F L
+ C R E
+ D P A
+ C R E K
+ R E K A
+ C G L
+ C R E K A
+ A G G
+ F K K I L
+ F K K I L K
+ G D C
+ G P D
+ G R F
+ K K I L
+ K K I L K
+ K L F K K
+ K L F K K I
+ K L F K K I L
+ K L F K K I L K
+ L F K K
+ L F K K I
+ L F K K I L
+ L F K K I L K
+ R C G
+ R G D K
+ C R G D K
+ D P A Y
+ G D P A
+ K K L F
+ K K L F K
+ K K L F K K
+ K K L F K K I
+ K K L F K K I L
+ K K L F K K I L K
+ R G D C
+ C N G R C G
+ C R G D C
+ D P A Y Q
+ G R C G
+ N G R C G
+ P D C
+ R T G
+ V S P
+ Y R C
+ A E G E
+ A E G E F
+ A K K L F
+ A K K L F K
+ A K K L F K K
+ A K K L F K K I
+ A K K L F K K I L
+ A K K L F K K I L K
+ C A R
+ C G K
+ C N A
+ C R E K A K
+ C R E K A K K
+ C R E K A K K L
+ C R E K A K K L F
+ C R E K A K K L F K
+ C R E K A K K L F K K
+ C R E K A K K L F K K I
+ C R E K A K K L F K K I L
+ C R E K A K K L F K K I L K
+ D P A K
+ E G D P
+ E G D P A
+ E G D P A K
+ E G E
+ E G E F
+ E K A K
+ E K A K K
+ E K A K K L
+ E K A K K L F
+ E K A K K L F K
+ E K A K K L F K K
+ E K A K K L F K K I
+ E K A K K L F K K I L
+ E K A K K L F K K I L K
+ G D P A K
+ G E F
+ G P D C
+ G R P
+ G T G
+ H M A
+ K A K
+ K A K K
+ K A K K L
+ K A K K L F
+ K A K K L F K
+ K A K K L F K K
+ K A K K L F K K I
+ K A K K L F K K I L
+ K A K K L F K K I L K
+ K C R
+ L I I
+ L P N
+ L Q Y
+ R A C
+ R C V
+ R E K A K
+ R E K A K K
+ R E K A K K L
+ R E K A K K L F
+ R E K A K K L F K
+ R E K A K K L F K K
+ R E K A K K L F K K I
+ R E K A K K L F K K I L
+ R E K A K K L F K K I L K
+ R G D L
+ R G D S
+ R S C
+ R Y G
+ S R N
+ T G T
+ V C N
+ W R P
+ W Y G Y
+ Y E G
+ Y E G D
+ Y E G D P
+ Y E G D P A
+ Y E G D P A K
+ Y G Y

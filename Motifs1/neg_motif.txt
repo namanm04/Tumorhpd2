@@ -1,0 +1,30 @@
+MERCI - Summary of options:
+ -p    negative_train.fasta
+ -n    positive_train.fasta
+ -k 	  500
+ -fp   5
+ -fn   0
+ -o    NONE_Ca/fp5_results/motifs_500_fp5_NONE_npn
+ -l    10000
+ -s    10000
+ -c    NONE
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ Q Y
+ F I
+ L L T
+ Q Q
+ D V I
+ I L K
+ V I E
+ V L L
+ E L Q
+ E L V
+ I L Y
+ I Q E
+ R K M
+ V F P

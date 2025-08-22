@@ -1,0 +1,117 @@
+MERCI - Summary of options:
+ -p    negative_train.fasta
+ -n    positive_train.fasta
+ -k 	  100
+ -fp   5
+ -fn   0
+ -o    NONE_Ca/fp5_results/motifs_100_fp5_NONE_npn
+ -l    10000
+ -s    10000
+ -c    NONE
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ G G G G
+ M V A
+ N L V
+ A T V
+ P M V
+ L V P M
+ L V P M V
+ L V P M V A
+ L V P M V A T
+ L V P M V A T V
+ M V A T
+ M V A T V
+ N L V P
+ N L V P M
+ N L V P M V
+ N L V P M V A
+ N L V P M V A T
+ N L V P M V A T V
+ P M V A
+ P M V A T
+ P M V A T V
+ V A T V
+ V P M V
+ V P M V A
+ V P M V A T
+ V P M V A T V
+ G G G G S
+ S G G G G
+ S G G G G S
+ G G G S G G G G
+ G G S G G G G
+ G S G G G G
+ N D R
+ R K N
+ D R K K
+ D R K K R
+ K K R T
+ K K R T L
+ K K R T L R
+ K K R T L R K
+ K K R T L R K N
+ K K R T L R K N D
+ K K R T L R K N D R
+ K K R T L R K N D R K
+ K K R T L R K N D R K K
+ K K R T L R K N D R K K R
+ K N D
+ K N D R
+ K N D R K
+ K N D R K K
+ K N D R K K R
+ K R T L
+ K R T L R
+ K R T L R K
+ K R T L R K N
+ K R T L R K N D
+ K R T L R K N D R
+ K R T L R K N D R K
+ K R T L R K N D R K K
+ K R T L R K N D R K K R
+ L R K N
+ L R K N D
+ L R K N D R
+ L R K N D R K
+ L R K N D R K K
+ L R K N D R K K R
+ N D R K
+ N D R K K
+ N D R K K R
+ R K N D
+ R K N D R
+ R K N D R K
+ R K N D R K K
+ R K N D R K K R
+ R T L R
+ R T L R K
+ R T L R K N
+ R T L R K N D
+ R T L R K N D R
+ R T L R K N D R K
+ R T L R K N D R K K
+ R T L R K N D R K K R
+ T L R K
+ T L R K N
+ T L R K N D
+ T L R K N D R
+ T L R K N D R K
+ T L R K N D R K K
+ T L R K N D R K K R
+ G G G G S G
+ S G G G G S G
+ G G G G S G G
+ G G G G S G G G
+ G G G G S G G G G
+ S G G G G S G G
+ S G G G G S G G G
+ S G G G G S G G G G
+ G G G S G G G G S
+ G G S G G G G S
+ G S G G G G S
+ L L T

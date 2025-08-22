@@ -1,0 +1,5 @@
+Subject,Sequence,ML Score,Prediction,PPV
+homing_ts1,QDGRIGF,0.97,homing inducing,1.0
+homing_ts2,CLDWGRIC,0.998,homing inducing,1.0
+nonhoming_ts1,SEREAIEVF,0.0,homing non-inducing,0.0
+nonhoming_ts2,PRHLR,0.21,homing non-inducing,0.141
